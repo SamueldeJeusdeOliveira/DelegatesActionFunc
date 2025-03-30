@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Course.Services
+namespace Course.Entities
 {
 
     class Product
